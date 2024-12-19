@@ -1,5 +1,4 @@
-<p align="center">
-# 👋 Hi there, I’m Jimoh Segun Jeremiah  
+#👋 Hi there, I’m Jimoh Segun Jeremiah  
 
 I am a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
 
@@ -22,8 +21,7 @@ I am open to collaborating on impactful open-source projects, startups, and inno
 - **Email:** [jimohsegunj@gmail.com](mailto:jimohsegunj@gmail.com)  
 - **LinkedIn:** [Jimoh Segun Jeremiah](https://www.linkedin.com/in/jimoh-segun-jeremiah-919b05125/)  
 - **X (Twitter):** [@Jimohsegunj](https://x.com/Jimohsegunj)  
-- **Instagram:** [@jimohsegunj](https://www.instagram.com/jimohsegunj/)  
-</p>
+- **Instagram:** [@jimohsegunj](https://www.instagram.com/jimohsegunj/)
 
 <p align="center">
  <a href="https://react-portfolio-website-ecru.vercel.app/" target="_blank">
