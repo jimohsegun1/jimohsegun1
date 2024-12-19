@@ -1,4 +1,4 @@
-👋 Hi there, # I’m Jimoh Segun Jeremiah  
+👋 Hi there,  **I’m Jimoh Segun Jeremiah**  
 
 I am a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
 
