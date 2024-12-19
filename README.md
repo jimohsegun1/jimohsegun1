@@ -4,7 +4,7 @@
 I am a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
 
 ## 🛠️ Skills & Technologies  
-- **Frontend:** React.js, Next.js, Tailwind CSS  
+- **Frontend:** React.js, Next.js, Javascript, Tailwind CSS  
 - **Backend:** Node.js, Express.js, REST APIs  
 - **Database:** MongoDB, MySQL  
 - **Tools:** Git, Docker, Postman  
