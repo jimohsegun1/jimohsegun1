@@ -10,13 +10,8 @@ I am a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** d
 - **Machine Learning:** Data Preprocessing, Model Training, Python (Pandas, Scikit-learn)  
 
 ## 🌟 Projects Highlights  
-- **Paystride Web App:** A barcode scanning and online payment solution for reducing long queues in stores.  
 - **Medicare Web App:** A platform for doctors’ appointments integrated with **Stripe payment gateway**.  
 - **E-commerce Application:** Built an end-to-end online store with dynamic cart functionality and admin management.  
-
-## 🌍 What I’m Working On  
-- Enhancing the UI of my React.js projects to ensure cross-platform responsiveness.  
-- Developing a machine learning project to address specific challenges.  
 
 ## 🤝 Let’s Collaborate!  
 I am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** and **AI/ML applications**.  
