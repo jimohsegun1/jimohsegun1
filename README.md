@@ -15,7 +15,7 @@ I am a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** d
 - **E-commerce Application:** Built an end-to-end online store with dynamic cart functionality and admin management.  
 
 ## 🤝 Let’s Collaborate!  
-I am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** and **AI/ML applications**.  
+I am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** and **Artificial Intelligence / Machine Learning applications**.  
 
 ## 📫 How to Reach Me  
 - **Portfolio:** [My Portfolio](https://react-portfolio-website-ecru.vercel.app/)  
