@@ -1,12 +1,12 @@
 👋 **Hi there I'm**,  
    # Jimoh Segun Jeremiah  
 
-I am a passionate **Full-Stack Developer** and **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
+I am a passionate **Full-Stack Web and Mobile Developer** and also a **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
 
 ## 🛠️ Skills & Technologies  
-- **Frontend:** React.js, Next.js, Javascript, Typescript, Python, Tailwind CSS  
-- **Backend:** Node.js, Express.js, REST APIs  
-- **Database:** MongoDB, MySQL  
+- **Frontend:** React.js, React - Native, Next.js, Javascript, Typescript, Python, Tailwind CSS  
+- **Backend:** Node.js, Express.js, REST APIs, Python.  
+- **Database:** MongoDB, SQL, MySQL  
 - **Tools:** Git, Docker, Postman  
 - **Machine Learning:** Data Preprocessing, Model Training, Python (Pandas, Scikit-learn)  
 
