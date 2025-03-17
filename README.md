@@ -1,7 +1,7 @@
 👋 **Hi there I'm**,  
    # Jimoh Segun Jeremiah  
 
-I am a passionate **Full-Stack Web and Mobile Developer** and also a **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
+I'm a passionate **Full-Stack Web and Mobile Developer** and also a **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
 
 ## 🛠️ Skills & Technologies  
 - **Frontend:** React.js, React - Native, Next.js, Javascript, Typescript, Python, Tailwind CSS  
@@ -15,7 +15,7 @@ I am a passionate **Full-Stack Web and Mobile Developer** and also a **Machine L
 - **E-commerce Application:** Built an end-to-end online store with dynamic cart functionality and admin management.  
 
 ## 🤝 Let’s Collaborate!  
-I am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** and **Artificial Intelligence / Machine Learning applications**.  
+I am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** **Mobile development** and **Artificial Intelligence / Machine Learning applications**.  
 
 ## 📫 How to Reach Me  
 - **Portfolio:** [My Portfolio](https://react-portfolio-website-ecru.vercel.app/)  
