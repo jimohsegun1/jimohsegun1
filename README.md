@@ -12,7 +12,8 @@ I'm a passionate **Full-Stack Web and Mobile Developer** and also a **Machine Le
 
 ## 🌟 Projects Highlights  
 - **Medicare Web App:** A platform for doctors’ appointments integrated with **Stripe payment gateway**.  
-- **E-commerce Application:** Built an end-to-end online store with dynamic cart functionality and admin management.  
+- **E-commerce Application:** Built an end-to-end online store with dynamic cart functionality and admin management.
+- **More..
 
 ## 🤝 Let’s Collaborate!  
 I am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** **Mobile development** and **Artificial Intelligence / Machine Learning applications**.  
