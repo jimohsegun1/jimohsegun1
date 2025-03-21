@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Web and Mobile Developer** and also a **Machine Le
 - **More**..
 
 ## 🤝 Let’s Collaborate!  
-I am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** **Mobile development** and **Artificial Intelligence / Machine Learning applications**.  
+I'am open to collaborating on impactful open-source projects, startups, and innovative ideas in **web development** **Mobile development** and **Artificial Intelligence / Machine Learning applications**.  
 
 ## 📫 How to Reach Me  
 - **Portfolio:** [My Portfolio](https://react-portfolio-website-ecru.vercel.app/)  
