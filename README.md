@@ -11,7 +11,7 @@ I'm a passionate **MERN-Stack Web and Mobile Developer** and also a **Machine Le
 - **Machine Learning:** Data Preprocessing, Model Training, Python (Pandas, Scikit-learn)  
 
 ## 🌟 Projects Highlights  
-- **Medicare Web App:** A platform for doctors’ appointments integrated with **Stripe payment gateway**.  
+- **Medicare Web App:** A doctors’ appointments web app integrated with **Stripe payment gateway**.  
 - **E-commerce Application:** Built an end-to-end online store with dynamic cart functionality and admin management.
 - **More**..
 
