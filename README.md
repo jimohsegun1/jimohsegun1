@@ -1,7 +1,7 @@
 👋 **Hi there I am**,  
    # Jimoh Segun Jeremiah  
 
-I'm a passionate **MERN-Stack Web and Mobile Developer** and also a **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
+I'm a passionate **MERN-Stack Web and React Native Mobile Developer** and also a **Machine Learning Enthusiast** dedicated to creating innovative solutions through technology. With expertise in **MERN stack development** and experience in building scalable and user-friendly web applications, I aim to solve real-world problems with code.  
 
 Exploring React Native
 
