@@ -8,7 +8,7 @@ Exploring React Native
 ## 🛠️ Skills & Technologies  
 - **Frontend:** React.js, React - Native, Next.js, Javascript, Typescript, Python, Tailwind CSS  
 - **Backend:** Node.js, Express.js, REST APIs, Python.
-- **Python Web Scraping** Python, Selenium, BeautifulSoup  
+- **Python Web Scraping:** Python, Selenium, BeautifulSoup  
 - **Database:** MongoDB, SQL, MySQL  
 - **Tools:** Git, Docker, Postman  
 - **Machine Learning:** Data Preprocessing, Model Training, Python (Pandas, Scikit-learn)  
